@@ -14,8 +14,10 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="change path format.vi" Type="VI" URL="../change path format.vi"/>
 		<Item Name="change theirs path.vi" Type="VI" URL="../change theirs path.vi"/>
+		<Item Name="Compare_all_VIs_library_llb.vi" Type="VI" URL="../Compare_all_VIs_library_llb.vi"/>
 		<Item Name="Compare_IsSame_NoUI.vi" Type="VI" URL="../Compare_IsSame_NoUI.vi"/>
 		<Item Name="git resolve conflicts command.vi" Type="VI" URL="../git resolve conflicts command.vi"/>
+		<Item Name="list files in llb libraries.vi" Type="VI" URL="../list files in llb libraries.vi"/>
 		<Item Name="List git conflicted files.vi" Type="VI" URL="../List git conflicted files.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>

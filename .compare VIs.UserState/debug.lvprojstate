@@ -1,5 +1,20 @@
 <Configuration>
   <Target name="My Computer">
     <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="list files in llb libraries.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="450"/>
+          <SignalUID value="920"/>
+          <SignalUID value="3198"/>
+        </Generic>
+      </Probes>
+    </VI>
   </Target>
 </Configuration>
