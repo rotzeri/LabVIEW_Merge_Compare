@@ -19,6 +19,8 @@
 		<Item Name="git resolve conflicts command.vi" Type="VI" URL="../git resolve conflicts command.vi"/>
 		<Item Name="list files in llb libraries.vi" Type="VI" URL="../list files in llb libraries.vi"/>
 		<Item Name="List git conflicted files.vi" Type="VI" URL="../List git conflicted files.vi"/>
+		<Item Name="lits unmerged vis.vi" Type="VI" URL="../lits unmerged vis.vi"/>
+		<Item Name="one button prompt message-1.vi" Type="VI" URL="../one button prompt message-1.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

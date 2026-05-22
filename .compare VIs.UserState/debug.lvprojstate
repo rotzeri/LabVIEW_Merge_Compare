@@ -1,6 +1,34 @@
 <Configuration>
   <Target name="My Computer">
     <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="Compare_IsSame_NoUI.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="942"/>
+          <SignalUID value="1814"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Compare_all_VIs_library_llb.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1538"/>
+          <SignalUID value="1393"/>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="list files in llb libraries.vi">
       <Breakpoints>
         <NodeIndexes>
@@ -13,6 +41,23 @@
           <SignalUID value="450"/>
           <SignalUID value="920"/>
           <SignalUID value="3198"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="lits unmerged vis.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1059"/>
+          <SignalUID value="1260"/>
+          <SignalUID value="1756"/>
+          <SignalUID value="321"/>
+          <SignalUID value="1048"/>
         </Generic>
       </Probes>
     </VI>
